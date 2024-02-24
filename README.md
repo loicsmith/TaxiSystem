@@ -19,7 +19,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 ## Fonctionalités
 
 - Permet de faire des courses en tant que taxi sans la présence de client physique.
-- 10 courses aléatoires disponibles, gain entre 30 et 200€
+- 10 courses aléatoires disponibles (sur Amboise et Saints-Branchs), gain entre 30 et 200€
 - Possibilité de modifier la position du point bleu de prise des courses et l'argent gagné
   
 ## Notes
