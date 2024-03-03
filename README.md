@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1186037624931106898/TaxiSystem.jpg" width="300"/>
+<img src="https://i.imgur.com/uQsYc9F.jpeg" width="300"/>
 
 # PLUGIN TaxiSystem
 
